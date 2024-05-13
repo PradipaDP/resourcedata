@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "todos": [
+        {
+          "id": 1,
+          "title": "Buy groceries",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Call the plumber",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "title": "Finish report",
+          "completed": true
+        },
+        {
+          "id": 4,
+          "title": "Pay electricity bill",
+          "completed": false
+        },
+        {
+          "id": 5,
+          "title": "Go for a run",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Alice Smith",
+      "todos": [
+        {
+          "id": 1,
+          "title": "Attend meeting",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Submit project proposal",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "title": "Call mom",
+          "completed": false
+        },
+        {
+          "id": 4,
+          "title": "Book flight tickets",
+          "completed": false
+        },
+        {
+          "id": 5,
+          "title": "Renew gym membership",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Emma Johnson",
+      "todos": [
+        {
+          "id": 1,
+          "title": "Schedule dentist appointment",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Review presentation slides",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "title": "Buy birthday gift for friend",
+          "completed": false
+        },
+        {
+          "id": 4,
+          "title": "Fix leaking faucet",
+          "completed": false
+        },
+        {
+          "id": 5,
+          "title": "Organize closet",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "todos": [
+        {
+          "id": 1,
+          "title": "Write blog post",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Call insurance company",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "title": "Prepare for presentation",
+          "completed": false
+        },
+        {
+          "id": 4,
+          "title": "Fix broken chair",
+          "completed": false
+        },
+        {
+          "id": 5,
+          "title": "Research vacation destinations",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sophia Martinez",
+      "todos": [
+        {
+          "id": 1,
+          "title": "Take dog for a walk",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Buy new book",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "title": "Pay rent",
+          "completed": false
+        },
+        {
+          "id": 4,
+          "title": "Cook dinner",
+          "completed": false
+        },
+        {
+          "id": 5,
+          "title": "Plan weekend getaway",
+          "completed": true
+        }
+      ]
+    }
+  ]
+}
