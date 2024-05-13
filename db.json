@@ -6,27 +6,27 @@
       "todos": [
         {
           "id": 1,
-          "title": "Buy groceries",
+          "title": "Beli barang keperluan",
           "completed": false
         },
         {
           "id": 2,
-          "title": "Call the plumber",
+          "title": "Telepon tukang ledeng",
           "completed": false
         },
         {
           "id": 3,
-          "title": "Finish report",
+          "title": "Selesaikan laporan",
           "completed": true
         },
         {
           "id": 4,
-          "title": "Pay electricity bill",
+          "title": "Bayar tagihan listrik",
           "completed": false
         },
         {
           "id": 5,
-          "title": "Go for a run",
+          "title": "Lari pagi",
           "completed": true
         }
       ]
@@ -37,27 +37,27 @@
       "todos": [
         {
           "id": 1,
-          "title": "Attend meeting",
+          "title": "Hadiri rapat",
           "completed": false
         },
         {
           "id": 2,
-          "title": "Submit project proposal",
+          "title": "Kirim proposal proyek",
           "completed": true
         },
         {
           "id": 3,
-          "title": "Call mom",
+          "title": "Telepon ibu",
           "completed": false
         },
         {
           "id": 4,
-          "title": "Book flight tickets",
+          "title": "Pesan tiket pesawat",
           "completed": false
         },
         {
           "id": 5,
-          "title": "Renew gym membership",
+          "title": "Perpanjang keanggotaan gym",
           "completed": true
         }
       ]
@@ -68,27 +68,27 @@
       "todos": [
         {
           "id": 1,
-          "title": "Schedule dentist appointment",
+          "title": "Jadwalkan janji gigi",
           "completed": false
         },
         {
           "id": 2,
-          "title": "Review presentation slides",
+          "title": "Ulasan slide presentasi",
           "completed": true
         },
         {
           "id": 3,
-          "title": "Buy birthday gift for friend",
+          "title": "Beli kado ulang tahun untuk teman",
           "completed": false
         },
         {
           "id": 4,
-          "title": "Fix leaking faucet",
+          "title": "Perbaiki keran yang bocor",
           "completed": false
         },
         {
           "id": 5,
-          "title": "Organize closet",
+          "title": "Atur lemari",
           "completed": true
         }
       ]
@@ -99,27 +99,27 @@
       "todos": [
         {
           "id": 1,
-          "title": "Write blog post",
+          "title": "Menulis posting blog",
           "completed": false
         },
         {
           "id": 2,
-          "title": "Call insurance company",
+          "title": "Telepon perusahaan asuransi",
           "completed": true
         },
         {
           "id": 3,
-          "title": "Prepare for presentation",
+          "title": "Persiapan untuk presentasi",
           "completed": false
         },
         {
           "id": 4,
-          "title": "Fix broken chair",
+          "title": "Perbaiki kursi yang rusak",
           "completed": false
         },
         {
           "id": 5,
-          "title": "Research vacation destinations",
+          "title": "Riset destinasi liburan",
           "completed": true
         }
       ]
@@ -130,27 +130,27 @@
       "todos": [
         {
           "id": 1,
-          "title": "Take dog for a walk",
+          "title": "Jalan-jalan dengan anjing",
           "completed": false
         },
         {
           "id": 2,
-          "title": "Buy new book",
+          "title": "Beli buku baru",
           "completed": true
         },
         {
           "id": 3,
-          "title": "Pay rent",
+          "title": "Bayar sewa",
           "completed": false
         },
         {
           "id": 4,
-          "title": "Cook dinner",
+          "title": "Masak makan malam",
           "completed": false
         },
         {
           "id": 5,
-          "title": "Plan weekend getaway",
+          "title": "Rencanakan liburan akhir pekan",
           "completed": true
         }
       ]
